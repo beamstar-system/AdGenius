@@ -1,0 +1,5 @@
+{
+  "name": "AdGenius - AI Banner Generator",
+  "description": "Generate high-quality, multi-format banner ads from product descriptions using Gemini Nano Banana Pro.",
+  "requestFramePermissions": []
+}
